@@ -1,9 +1,0 @@
-
-//Android Background Restrictions
-
-https://medium.com/its-tinkoff/android-background-restrictions-b63e73fe508
-
-
-//Doze Mode
-
-https://medium.com/mindorks/you-have-to-know-more-about-doze-mode-3d80f016f8ad
